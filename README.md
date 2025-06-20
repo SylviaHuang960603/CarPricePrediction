@@ -2,8 +2,6 @@ The project aims to forecast used car prices based on vehicle attributes. Variou
 The training dataset contains 7,000 entries with 39 variables, while the test set includes 3,000 observations of 38 variables. The target variable is the price.
 Predicted outputs are evaluated using mean absolute percentage error (MAPE).
 
-This repository contains the work I completed for the group project at Macquarie University.
-
 Description of Variables:
 1) vin: Type String. Vehicle Identification Number is a unique encoded string for every vehicle. Read more at https://www.autocheck.com/vehiclehistory/vin-basics
 2) back_legroom: Type String. Legroom in the rear seat.
